@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Canvas_WallE_Eve
+comment0.text=\r\n\ Fonctions\ graphiques\ pour\ la\ tortur\ Logo\r\n\ Ensemble\ de\ fonctions\ permettant\ d'afficher\ une\ tortue\ dans\ les\ 4\ directions\r\n\ et\ de\ tracer\ des\ traits\ horizontaux\ et\ verticaux.\ Adapt\u00E9e\ \u00E0\ la\ tortue\ LOGO\r\n\ dans\ un\ espace\ de\ 12x12\ cases\ (0,0\ au\ milieu)\r\n\ \r\n\ @author\ Patrick\ Girard\ \r\n\ @version\ August\ 2012\r\n
+comment1.params=x\ y
+comment1.target=void\ tortueNord(int,\ int)
+comment1.text=\r\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ le\ nord\r\n\r\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\r\n
+comment2.params=x\ y
+comment2.target=void\ tortueSud(int,\ int)
+comment2.text=\r\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ le\ sud\r\n\r\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\r\n
+comment3.params=x\ y
+comment3.target=void\ tortueEst(int,\ int)
+comment3.text=\r\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ l'est\r\n\r\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\r\n
+comment4.params=x\ y
+comment4.target=void\ tortueOuest(int,\ int)
+comment4.text=\r\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ l'ouest\r\n\r\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\r\n
+comment5.params=x1\ y1\ color
+comment5.target=void\ ecrisVertical(int,\ int,\ java.lang.String)
+comment5.text=\r\n\ Trace\ un\ trait\ noir\ vers\ le\ sud\r\n\r\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ d\u00E9part,\ en\ cases\r\n
+comment6.params=x1\ y1\ color
+comment6.target=void\ ecrisHorizontal(int,\ int,\ java.lang.String)
+comment6.text=\r\n\ Trace\ un\ trait\ noir\ vers\ l'est\r\n\r\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ d\u00E9part,\ en\ cases\r\n
+numComments=7
