@@ -1,4 +1,6 @@
-Travail à faire :
+Travail à faire urgent :
   - la class de base Robot
-  - les Robots héritiers de chacun
+  - la class de canva
   - la colission avec les autres robots et éviter la sortie du monde
+après:
+  - les Robots héritiers de chacun
